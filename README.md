@@ -1,2 +1,2 @@
 # interpretability-papers
-Papers on interpretable deep learning, for review
+This repository is for tracking papers on interpretable/explainable machine learning (primarily focusing on deep learning).
